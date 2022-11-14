@@ -1,5 +1,6 @@
-#include "binanry_tre.h"
+#include "binary_trees.h"
 #include <stdlib.h>
+#include <stdio.h>
 
 //a function that creates a tree node
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
