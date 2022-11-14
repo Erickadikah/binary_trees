@@ -9,4 +9,4 @@
 <li>What is a complete, a full, a perfect, a balanced binary tree</li>
 <h2>Authors</h2>
 <li>Erick adikah</li>
-<li></li>
+<li>Aliyu Olamide Aliyu</li>
