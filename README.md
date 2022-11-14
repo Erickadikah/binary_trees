@@ -7,3 +7,6 @@
 <li>What are the depth, the height, the size of a binary tree</li>
 <li>What are the different traversal methods to go through a binary tree</li>
 <li>What is a complete, a full, a perfect, a balanced binary tree</li>
+<h2>Authors</h2>
+<li>Erick adikah</li>
+<li></li>
