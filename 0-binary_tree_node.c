@@ -3,8 +3,9 @@
 #include <stdio.h>
 /**
  *binary_tree_node - is the binary tree
- *parent: is the pointer to the root node
- *value: this is the value a tree holds
+ *@parent: is the pointer to the root node
+ * @value: this is the value a tree holds
+ * Return: new.
  */
 
 
