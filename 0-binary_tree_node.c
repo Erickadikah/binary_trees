@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 #include <stdlib.h>
 #include <stdio.h>
-/*
+/**
  *binary_tree_node - is the binary tree
  *parent: is the pointer to the root node
  *value: this is the value a tree holds
