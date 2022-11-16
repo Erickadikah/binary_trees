@@ -1,6 +1,4 @@
 #include "binary_trees.h"
-#include <stdlib.h>
-#include <stdlib.h>
 /**
  * binary_tree_inorder - This function that goes through a
  * binary tree using pre-order traversal
