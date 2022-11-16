@@ -6,7 +6,7 @@
  *@parent: is the pointer to the root node
  * @value: this is the value a tree holds
  * Return: if an error occures - NULL.
- * 		otherwise a pointer to the new node
+ * otherwise a pointer to the new node
  */
 
 
