@@ -63,11 +63,13 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
 	l = tree->left;
 	r = tree->right;
 	if (binary_tree_is_leaf(tree))
-		return(1)
-			if (binary_tree__height(1) == binaryy_tree_height(r))
+		return (1);
+	if (l == NULL || r == NULL)
+		return (0);
+			if (binary_tree_height(l) == binary_tree_height(r))
 			{
-				if (binary_tree_is_perfect(1) && binary_tree_is_perfect(1))
-					return (1)
+				if (binary_tree_is_perfect(l) && binary_tree_is_perfect(r))
+					return (1);
 			}
-	return (0)
+	return (0);
 }
