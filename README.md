@@ -9,5 +9,5 @@
 <li>What is a complete, a full, a perfect, a balanced binary tree</li>
 <h2>Authors</h2>
 <li>Erick adikah</li>
-<p>https://github.com/Erickadikah/alx-system_engineering-devops </p>
+<p> https://github.com/Erickadikah/binary_trees</p>
 <li>Aliyu Olamide Aliyu</li>
